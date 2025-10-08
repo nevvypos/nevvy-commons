@@ -1,42 +1,42 @@
 [
-    {
-        "name": "food_and_beverages",
-        "description": "Qida və içkilər"
-    },
-    {
-        "name": "electronics",
-        "description": "Elektronika"
-    },
-    {
-        "name": "clothing_and_accessories",
-        "description": "Geyim və aksesuarlar"
-    },
-    {
-        "name": "beauty_and_personal_care",
-        "description": "Gözəllik və şəxsi qulluq"
-    },
-    {
-        "name": "home_and_kitchen",
-        "description": "Ev və mətbəx"
-    },
-    {
-        "name": "health_and_wellness",
-        "description": "Sağlamlıq və rifah"
-    },
-    {
-        "name": "sports_and_outdoors",
-        "description": "İdman və açıq hava"
-    },
-    {
-        "name": "books_and_stationery",
-        "description": "Kitablar və dəftərxana ləvazimatları"
-    },
-    {
-        "name": "toys_and_games",
-        "description": "Oyuncaqlar və oyunlar"
-    },
-    {
-        "name": "automotive",
-        "description": "Avtomobil"
-    }
+  {
+    "name": "food_and_beverages",
+    "description": "Qida və içkilər"
+  },
+  {
+    "name": "electronics",
+    "description": "Elektronika"
+  },
+  {
+    "name": "clothing_and_accessories",
+    "description": "Geyim və aksesuarlar"
+  },
+  {
+    "name": "beauty_and_personal_care",
+    "description": "Gözəllik və şəxsi qulluq"
+  },
+  {
+    "name": "home_and_kitchen",
+    "description": "Ev və mətbəx"
+  },
+  {
+    "name": "health_and_wellness",
+    "description": "Sağlamlıq və rifah"
+  },
+  {
+    "name": "sports_and_outdoors",
+    "description": "İdman və açıq hava"
+  },
+  {
+    "name": "books_and_stationery",
+    "description": "Kitablar və dəftərxana ləvazimatları"
+  },
+  {
+    "name": "toys_and_games",
+    "description": "Oyuncaqlar və oyunlar"
+  },
+  {
+    "name": "automotive",
+    "description": "Avtomobil"
+  }
 ]

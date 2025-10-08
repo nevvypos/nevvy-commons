@@ -1,42 +1,42 @@
 [
-    {
-        "name": "food_and_beverages",
-        "description": "Food and Beverages"
-    },
-    {
-        "name": "electronics",
-        "description": "Electronics"
-    },
-    {
-        "name": "clothing_and_accessories",
-        "description": "Clothing and Accessories"
-    },
-    {
-        "name": "beauty_and_personal_care",
-        "description": "Beauty and Personal Care"
-    },
-    {
-        "name": "home_and_kitchen",
-        "description": "Home and Kitchen"
-    },
-    {
-        "name": "health_and_wellness",
-        "description": "Health and Wellness"
-    },
-    {
-        "name": "sports_and_outdoors",
-        "description": "Sports and Outdoors"
-    },
-    {
-        "name": "books_and_stationery",
-        "description": "Books and Stationery"
-    },
-    {
-        "name": "toys_and_games",
-        "description": "Toys and Games"
-    },
-    {
-        "name": "automotive",
-        "description": "Automotive"
-    }
+  {
+    "name": "food_and_beverages",
+    "description": "Food and Beverages"
+  },
+  {
+    "name": "electronics",
+    "description": "Electronics"
+  },
+  {
+    "name": "clothing_and_accessories",
+    "description": "Clothing and Accessories"
+  },
+  {
+    "name": "beauty_and_personal_care",
+    "description": "Beauty and Personal Care"
+  },
+  {
+    "name": "home_and_kitchen",
+    "description": "Home and Kitchen"
+  },
+  {
+    "name": "health_and_wellness",
+    "description": "Health and Wellness"
+  },
+  {
+    "name": "sports_and_outdoors",
+    "description": "Sports and Outdoors"
+  },
+  {
+    "name": "books_and_stationery",
+    "description": "Books and Stationery"
+  },
+  {
+    "name": "toys_and_games",
+    "description": "Toys and Games"
+  },
+  {
+    "name": "automotive",
+    "description": "Automotive"
+  }
 ]

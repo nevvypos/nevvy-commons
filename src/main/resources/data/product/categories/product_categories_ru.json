@@ -1,42 +1,42 @@
 [
-    {
-        "name": "food_and_beverages",
-        "description": "Еда и напитки"
-    },
-    {
-        "name": "electronics",
-        "description": "Электроника"
-    },
-    {
-        "name": "clothing_and_accessories",
-        "description": "Одежда и аксессуары"
-    },
-    {
-        "name": "beauty_and_personal_care",
-        "description": "Красота и личная гигиена"
-    },
-    {
-        "name": "home_and_kitchen",
-        "description": "Дом и кухня"
-    },
-    {
-        "name": "health_and_wellness",
-        "description": "Здоровье и благополучие"
-    },
-    {
-        "name": "sports_and_outdoors",
-        "description": "Спорт и активный отдых"
-    },
-    {
-        "name": "books_and_stationery",
-        "description": "Книги и канцелярия"
-    },
-    {
-        "name": "toys_and_games",
-        "description": "Игрушки и игры"
-    },
-    {
-        "name": "automotive",
-        "description": "Автомобиль"
-    }
+  {
+    "name": "food_and_beverages",
+    "description": "Еда и напитки"
+  },
+  {
+    "name": "electronics",
+    "description": "Электроника"
+  },
+  {
+    "name": "clothing_and_accessories",
+    "description": "Одежда и аксессуары"
+  },
+  {
+    "name": "beauty_and_personal_care",
+    "description": "Красота и личная гигиена"
+  },
+  {
+    "name": "home_and_kitchen",
+    "description": "Дом и кухня"
+  },
+  {
+    "name": "health_and_wellness",
+    "description": "Здоровье и благополучие"
+  },
+  {
+    "name": "sports_and_outdoors",
+    "description": "Спорт и активный отдых"
+  },
+  {
+    "name": "books_and_stationery",
+    "description": "Книги и канцелярия"
+  },
+  {
+    "name": "toys_and_games",
+    "description": "Игрушки и игры"
+  },
+  {
+    "name": "automotive",
+    "description": "Автомобиль"
+  }
 ]
