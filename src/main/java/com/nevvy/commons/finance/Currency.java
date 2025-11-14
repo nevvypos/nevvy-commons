@@ -1,4 +1,4 @@
-package az.neotech.commons.finance;
+package com.nevvy.commons.finance;
 
 import lombok.Getter;
 

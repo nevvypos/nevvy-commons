@@ -1,4 +1,4 @@
-package az.neotech.commons.audit;
+package com.nevvy.commons.audit;
 
 import jakarta.persistence.EntityListeners;
 import jakarta.persistence.MappedSuperclass;

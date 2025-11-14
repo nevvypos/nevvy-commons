@@ -1,4 +1,4 @@
-package az.neotech.commons.order;
+package com.nevvy.commons.order;
 
 public enum GeneralOrderStatus {
     PENDING,
