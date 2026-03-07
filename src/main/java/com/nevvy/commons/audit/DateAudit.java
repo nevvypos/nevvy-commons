@@ -20,5 +20,5 @@ public class DateAudit {
     protected LocalDateTime createdAt;
 
     @LastModifiedDate
-    protected LocalDateTime modifiedAt;
+    protected LocalDateTime updatedAt;
 }
