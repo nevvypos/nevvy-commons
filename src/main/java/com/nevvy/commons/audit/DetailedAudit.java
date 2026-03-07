@@ -21,7 +21,7 @@ public class DetailedAudit {
     protected String createdBy;
 
     @LastModifiedBy
-    protected String modifiedBy;
+    protected String updatedBy;
 
     @CreatedDate
     protected LocalDateTime createdAt;
